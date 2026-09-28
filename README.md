@@ -72,4 +72,4 @@ SDET (Software Development Engineer in Test).
 ## Прогресс
 
 - [x] Глава 1 — основы Java
-- [ ] Глава 2 — Git
+- [ ] Глава 2 — Git (2.1-б: clone -> push -> pull)
