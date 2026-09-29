@@ -35,5 +35,16 @@ public class TestTimeStat {
                 System.out.println("Медленный прогон " + (i + 1) + " длился " + testDurationMs[i] + " миллисекунд");
             }
         }
+
+        int slowestIndex = 0;
+        int slowestTime = 0;
+
+        for (int i = 0; i < testDurationMs.length; i++) {
+            if (testDurationMs[i] > slowestTime) {
+                slowestTime = testDurationMs[i];
+                slowestIndex = i;
+            }
+        }
+        System.out.println("Индекс самого медленного теста - " + slowestIndex);
     }
 }
