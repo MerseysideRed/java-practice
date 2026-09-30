@@ -73,3 +73,25 @@ SDET (Software Development Engineer in Test).
 
 - [x] Глава 1 — основы Java
 - [ ] Глава 2 — Git (2.1-б: clone -> push -> pull)
+
+## Структура проекта
+
+.
+├── New Project.iml
+├── README.md
+└── src
+    ├── ConsoleTestRunAnalyzer.java
+    ├── DiceRolls.java
+    ├── DigitCounter.java
+    ├── DigitOccurrencesAnalyzer.java
+    ├── GradeMode.java
+    ├── GradeModeFinder.java
+    ├── HelloQA.java
+    ├── NewTestIdGenerator.java
+    ├── PassportTestEnv.java
+    ├── PasswordValidator.java
+    ├── TestIdGenerator.java
+    ├── TestRunAnalyzer.java
+    ├── TestRunResults.java
+    ├── TestTimeStat.java
+    └── UniqueCharFinder.java
