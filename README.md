@@ -1,5 +1,5 @@
 # java-practice
-
+новая строка правая
 Учебный репозиторий: решения задач по Java в рамках подготовки к позиции
 SDET (Software Development Engineer in Test).
 
