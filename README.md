@@ -1,6 +1,6 @@
 # java-practice
 
-версия - левая и новая строка правая
+версия - conflict/ide-left
 
 Учебный репозиторий: решения задач по Java в рамках подготовки к позиции
 SDET (Software Development Engineer in Test).
