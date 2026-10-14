@@ -1,5 +1,5 @@
 # java-practice
-
+верися - conflict/two-files
 версия - conflict/ide-right
 
 Учебный репозиторий: решения задач по Java в рамках подготовки к позиции
