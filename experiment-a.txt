@@ -1,4 +1,4 @@
 experiment a
 new line from 2.3.a drill
 версия - conflict/two-files
-версия - main-rebase
+версия - conflict/two-files-rebase
